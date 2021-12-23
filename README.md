@@ -4,7 +4,9 @@ In my role as Director of Pathology Informatics I have unrestricted SQL access t
 
 [a] our Operational Data Store – a replicated Cerner Millennium schema that includes our clinical pathology LIS and blood bank information system that is analogous to Epic Clarity,
 
-[b] our Clinical Data Warehouse – a dimensional schema backing our Microstrategy BI tool that is analogous to Epic Caboodle and [c] Cerner CoPathPlus – our anatomic pathology LIS which will be replaced with Epic Beaker AP.
+[b] our Clinical Data Warehouse – a dimensional schema backing our Microstrategy BI tool that is analogous to Epic Caboodle,
+
+and [c] Cerner CoPathPlus – our anatomic pathology LIS which will be replaced with Epic Beaker AP.
 
 I rely on this SQL access daily to do lots of things. In the interest of brevity, I include some examples from public GitHub reposistories that are easy to link to:
 
