@@ -1,4 +1,4 @@
-with qualifying_diagnosis as 
+`with qualifying_diagnosis as 
 ( 
   select 
     ld.diagnosis_key,  
@@ -139,3 +139,4 @@ where
 order by 
   sppk.latest_spec_coll_dt desc, 
   empi_nbr
+`
