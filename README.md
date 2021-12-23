@@ -2,9 +2,9 @@
 
 In my role as Director of Pathology Informatics I have unrestricted SQL access to a number of EHC’s databases including:
 
-[a] our Operational Data Store – a replicated Cerner Millennium schema that includes our clinical pathology LIS and blood bank information system that is analogous to Epic Clarity,
+[a] our Operational Data Store – a replicated Cerner Millennium schema that includes our PowerChart EMR, clinical pathology LIS and blood bank information system that is analogous to Epic Clarity,
 
-[b] our Clinical Data Warehouse – a dimensional schema backing our Microstrategy BI tool that is analogous to Epic Caboodle, and
+[b] our Clinical Data Warehouse – a dimensional schema backing our Microstrategy BI tool that is analogous to Epic Caboodle and
 
 [c] Cerner CoPathPlus – our anatomic pathology LIS which will be replaced with Epic Beaker AP.
 
